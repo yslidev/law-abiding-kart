@@ -1,0 +1,1 @@
+{"track": "lighthouse", "frames": 73, "iou": {"OTHER": 0.789, "ROAD": 0.755, "KART": 0.002, "OBSTACLE": 0.011}, "miou": 0.389, "depth_absrel": 0.451, "depth_scale": [0.08625860129500039, -0.01914849043204938], "ms_per_frame": 232.2, "device": "mps"}
